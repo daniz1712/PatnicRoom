@@ -19,7 +19,7 @@
 |rarity|3|
 |modTime|2|
 #### Mods:  
-|[Object:3380]|opens Sec2 doors|
+|[Object:3339]|opens Sec2 doors|
  
 ### Heartbleed-Bug
 |name|value|

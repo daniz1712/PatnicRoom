@@ -8,7 +8,7 @@ func buildEffectProcess(dictOfProperties:Dictionary):
 	var allSlots = []
 	
 	for unit in syntax.EFFECT_UNIT.size():
-		if selectSlotAndUnit(dictOfProperties,"TIME",unit) == "N/A":
+		if str(selectSlotAndUnit(dictOfProperties,"TIME",unit)) == "N/A":
 			allSlots.append("N/A")
 		
 		

@@ -79,11 +79,12 @@ var ATLAS_INDEX_COMP ={
 	"C_56_BASE_CONNECTOR"					:	C_56_BASE_CONNECTOR,
 	"C_58_ALTERNATIVE_TEXTURES"             :   C_58_ALTERNATIVE_TEXTURES,
 	"C_59_KIT_MOD_CHANGE"                   :   C_59_KIT_MOD_CHANGE,
-	"C_60_BASE_KIT_REFERENCE"              : C_60_BASE_KIT_REFERENCE,
-	"C_8_STRUCTURE_HP"                     : C_8_STRUCTURE_HP,
-	"C_9_CREDITS_ACCOUNT"                 : C_9_CREDITS_ACCOUNT,
-	"C_61_LOOT_TABLE" : C_61_LOOT_TABLE,
-	"C_62_LOOT_STATE":C_62_LOOT_STATE
+	"C_60_BASE_KIT_REFERENCE"               : C_60_BASE_KIT_REFERENCE,
+	"C_8_STRUCTURE_HP"                      : C_8_STRUCTURE_HP,
+	"C_9_CREDITS_ACCOUNT"                   : C_9_CREDITS_ACCOUNT,
+	"C_61_LOOT_TABLE"                       : C_61_LOOT_TABLE,
+	"C_62_LOOT_STATE"                       : C_62_LOOT_STATE,
+	"C_63_IS_BURNABLE"                     : C_63_IS_BURNABLE
 }
 
 var ATLAS_FLAGS ={
